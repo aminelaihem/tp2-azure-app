@@ -1,0 +1,7 @@
+{
+  "name": "app-tp2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
